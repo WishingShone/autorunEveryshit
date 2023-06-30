@@ -1,4 +1,4 @@
-# autoEveryshit
+# autorunEveryshit
 专治各种线上培训视频
 
 依赖：
